@@ -1,2 +1,2 @@
-# Smart_Farming
-Development of a Smart Irrigation System using IoT Sensor Data. This is my thesis project.
+# Development of a Smart Irrigation System using IoT Sensor Data
+ This is my thesis project.
